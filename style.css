@@ -173,4 +173,8 @@ ol{
   .grid-element {
     font-size: 12px;
 }
+#phone-img {
+    max-width: 100%;
+    margin-left: 0rem;
+  }
 }
